@@ -13,7 +13,8 @@ This script installs Docker and Docker Compose, sets up automatic updates for Do
    install_docker.sh
    ``` 
 3. Make it executable
-   ```chmod +x install_vscode_server.sh
+   ```
+   chmod +x install_vscode_server.sh
    ```
 5. Execute it with root privileges
    ```
