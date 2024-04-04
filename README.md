@@ -8,7 +8,7 @@ This script installs Docker and Docker Compose, sets up automatic updates for Do
 * Sets up a systemd timer and service to automatically update Docker images and containers daily at midnight.
 * Configures Docker to start on system boot.
 
-1. Save this script to a file named install_docker.sh. You can copy/paste from here and on your server create/open file with following command: nano path/to/your/install_docker.sh.
+1. Save this script to a file named install_docker.sh. You can copy/paste from here and on your server create/open file with following command: sudo nano path/to/your/install_docker.sh.
 2. Make it executable (chmod +x install_vscode_server.sh).
 3. Execute it with root privileges (sudo ./install_docker.sh).
 
