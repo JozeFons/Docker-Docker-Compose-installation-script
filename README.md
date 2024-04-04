@@ -1,1 +1,1 @@
-# Docker-Docker-Compose-installation-script
+# Docker & Docker Compose installation script
