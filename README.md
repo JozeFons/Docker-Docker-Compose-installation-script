@@ -20,5 +20,8 @@ This script installs Docker and Docker Compose, sets up automatic updates for Do
    ```
    sudo ./install_docker.sh
    ```
-* Optional: You can copy/paste from here to your server machine and create/open file with following command: sudo `nano path/to/your/install_docker.sh`.
+* Optional: You can copy/paste from here to your server machine and create/open file with following command:
+  ```
+  sudo nano path/to/your/install_docker.sh
+  ```
 
