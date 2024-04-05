@@ -20,8 +20,12 @@ This script installs Docker and Docker Compose, sets up automatic updates for Do
    ```
    sudo ./install_docker.sh
    ```
-* Optional: You can copy/paste from here to your server machine and create/open file with following command:
+* Optional:
+  1. Copy/paste from here to your server machine and create/open file with following command:
   ```
   sudo nano path/to/your/install_docker.sh
   ```
-
+  2. Use git to download specific file from github repo. On your machine navigate to `cd path/to/your/directory` and download desired file via weblink using command `wget`
+  ```
+  wget https://github.com/JozeFons/Docker_installation_script/blob/main/install_docker.sh
+  ```
